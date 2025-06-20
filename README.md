@@ -4,6 +4,7 @@ patched around kv4 or something idk
 ## badapple report information
 - the bug has been assigned [CVE-2025-6177](https://nvd.nist.gov/vuln/detail/CVE-2025-6177), CVSS 3.1, 7.4 High
 - issuetracker report: <https://issuetracker.google.com/issues/382540412>
+- google payout: 5k USD vrp
 
 kid friendly explanation: this allows you to run cryptosmite, icarus and daub on your keyrolled device. allows for pencil method too.
 ## what does this do??
